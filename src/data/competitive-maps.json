@@ -1,0 +1,307 @@
+[
+  {
+    "slug": "new-york-city",
+    "name": "New York City",
+    "state": "NY",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "niche": "Plumbers",
+    "searchVolume": 33100,
+    "difficulty": "high",
+    "competitors": [
+      {
+        "rank": 1,
+        "name": "Rite Plumbing & Heating Inc",
+        "reviews": 1247,
+        "rating": 4.9,
+        "gbpScore": 95,
+        "url": "riteplumbingnyc.com",
+        "keyStrength": "24/7 availability, 50+ years in business",
+        "lat": 40.7624,
+        "lng": -73.9672
+      },
+      {
+        "rank": 2,
+        "name": "RR Plumbing Roto-Rooter",
+        "reviews": 892,
+        "rating": 4.7,
+        "gbpScore": 90,
+        "url": "rotorooter.com",
+        "keyStrength": "National brand trust, 24/7 emergency service",
+        "lat": 40.7484,
+        "lng": -73.9857
+      },
+      {
+        "rank": 3,
+        "name": "24/7 Manhattan Plumbing NYC",
+        "reviews": 645,
+        "rating": 4.8,
+        "gbpScore": 88,
+        "url": "247manhattanplumbingnyc.com",
+        "keyStrength": "Fast response time (under 30 min)",
+        "lat": 40.7235,
+        "lng": -74.002
+      },
+      {
+        "rank": 4,
+        "name": "A&E NYC Plumbing",
+        "reviews": 523,
+        "rating": 4.6,
+        "gbpScore": 75,
+        "url": "aenycplumbing.com",
+        "keyStrength": "Affordable pricing, family-owned",
+        "lat": 40.7112,
+        "lng": -73.955
+      }
+    ],
+    "gapAnalysis": {
+      "reviewsNeeded": 1500,
+      "ratingTarget": 4.9,
+      "topRecommendation": "Target Brooklyn or Queens first"
+    }
+  },
+  {
+    "slug": "los-angeles",
+    "name": "Los Angeles",
+    "state": "CA",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "niche": "Plumbers",
+    "searchVolume": 27100,
+    "difficulty": "high",
+    "competitors": [
+      {
+        "rank": 1,
+        "name": "Mike Diamond Services",
+        "reviews": 2100,
+        "rating": 4.5,
+        "gbpScore": 92,
+        "url": "mikediamond.com",
+        "keyStrength": "Multi-service (plumbing, electrical, HVAC)",
+        "lat": 34.0928,
+        "lng": -118.3286
+      },
+      {
+        "rank": 2,
+        "name": "Rooter-Man Plumbing LA",
+        "reviews": 1850,
+        "rating": 4.8,
+        "gbpScore": 94,
+        "url": "rooterman.com",
+        "keyStrength": "Strong brand recognition, higher rating",
+        "lat": 34.0407,
+        "lng": -118.2468
+      },
+      {
+        "rank": 3,
+        "name": "The Plumbing Co.",
+        "reviews": 780,
+        "rating": 4.9,
+        "gbpScore": 85,
+        "url": "theplumbingco.com",
+        "keyStrength": "Highest rating in LA, boutique service",
+        "lat": 33.985,
+        "lng": -118.4695
+      },
+      {
+        "rank": 4,
+        "name": "FIX IT 24/7 Plumbing LA",
+        "reviews": 430,
+        "rating": 4.7,
+        "gbpScore": 70,
+        "url": "fixit247.com",
+        "keyStrength": "Competitive pricing, growing rapidly",
+        "lat": 34.1425,
+        "lng": -118.2551
+      }
+    ],
+    "gapAnalysis": {
+      "reviewsNeeded": 2500,
+      "ratingTarget": 4.7,
+      "topRecommendation": "Win neighborhood-by-neighborhood"
+    }
+  },
+  {
+    "slug": "chicago",
+    "name": "Chicago",
+    "state": "IL",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "niche": "Plumbers",
+    "searchVolume": 18100,
+    "difficulty": "very high",
+    "competitors": [
+      {
+        "rank": 1,
+        "name": "ABC Plumbing & Sewer",
+        "reviews": 3200,
+        "rating": 4.7,
+        "gbpScore": 96,
+        "url": "abcplumbingchicago.com",
+        "keyStrength": "75+ years in business, dominant leader",
+        "lat": 41.9543,
+        "lng": -87.6658
+      },
+      {
+        "rank": 2,
+        "name": "J Blanton Plumbing",
+        "reviews": 1100,
+        "rating": 4.8,
+        "gbpScore": 93,
+        "url": "jblantonplumbing.com",
+        "keyStrength": "Best content marketing, modern brand",
+        "lat": 41.9385,
+        "lng": -87.6901
+      },
+      {
+        "rank": 3,
+        "name": "Laser Plumbing & Sewer",
+        "reviews": 870,
+        "rating": 4.6,
+        "gbpScore": 80,
+        "url": "laserplumbing.com",
+        "keyStrength": "Specialization in sewer & drain",
+        "lat": 41.8827,
+        "lng": -87.6233
+      },
+      {
+        "rank": 4,
+        "name": "Chicagoland Plumbing",
+        "reviews": 560,
+        "rating": 4.5,
+        "gbpScore": 72,
+        "url": "chicagolandplumbing.com",
+        "keyStrength": "Broad service area, competitive pricing",
+        "lat": 41.8085,
+        "lng": -87.6668
+      }
+    ],
+    "gapAnalysis": {
+      "reviewsNeeded": 3500,
+      "ratingTarget": 4.8,
+      "topRecommendation": "Pick a suburb. Win there. Expand."
+    }
+  },
+  {
+    "slug": "houston",
+    "name": "Houston",
+    "state": "TX",
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "niche": "Plumbers",
+    "searchVolume": 19800,
+    "difficulty": "extreme",
+    "competitors": [
+      {
+        "rank": 1,
+        "name": "John Moore Services",
+        "reviews": 8400,
+        "rating": 4.7,
+        "gbpScore": 98,
+        "url": "johnmooreservices.com",
+        "keyStrength": "Overwhelming dominance, multi-service",
+        "lat": 29.8131,
+        "lng": -95.4022
+      },
+      {
+        "rank": 2,
+        "name": "Abacus Plumbing",
+        "reviews": 2900,
+        "rating": 4.6,
+        "gbpScore": 94,
+        "url": "abacusplumbing.net",
+        "keyStrength": "Strong SEO, 24/7 online booking",
+        "lat": 29.7214,
+        "lng": -95.4612
+      },
+      {
+        "rank": 3,
+        "name": "Blue Collar Plumbing Co.",
+        "reviews": 1800,
+        "rating": 4.9,
+        "gbpScore": 91,
+        "url": "bluecollarplumbinghouston.com",
+        "keyStrength": "Highest rating, modern brand appeal",
+        "lat": 29.7752,
+        "lng": -95.3421
+      },
+      {
+        "rank": 4,
+        "name": "Green Leaf Plumbing",
+        "reviews": 650,
+        "rating": 4.8,
+        "gbpScore": 78,
+        "url": "greenleafplumbing.com",
+        "keyStrength": "Eco-friendly niche differentiation",
+        "lat": 29.7042,
+        "lng": -95.4012
+      }
+    ],
+    "gapAnalysis": {
+      "reviewsNeeded": 0,
+      "ratingTarget": 4.7,
+      "topRecommendation": "Do NOT compete head-to-head. Pick one suburb + one specialty."
+    }
+  },
+  {
+    "slug": "phoenix",
+    "name": "Phoenix",
+    "state": "AZ",
+    "lat": 33.4484,
+    "lng": -112.074,
+    "niche": "Plumbers",
+    "searchVolume": 14500,
+    "difficulty": "moderate",
+    "competitors": [
+      {
+        "rank": 1,
+        "name": "Chas Roberts",
+        "reviews": 3100,
+        "rating": 4.5,
+        "gbpScore": 95,
+        "url": "chasroberts.com",
+        "keyStrength": "Largest HVAC/plumbing company in AZ",
+        "lat": 33.582,
+        "lng": -112.1211
+      },
+      {
+        "rank": 2,
+        "name": "Sun City Plumbing",
+        "reviews": 2100,
+        "rating": 4.6,
+        "gbpScore": 88,
+        "url": "suncityplumbing.com",
+        "keyStrength": "Established brand, strong seasonal marketing",
+        "lat": 33.63,
+        "lng": -112.27
+      },
+      {
+        "rank": 3,
+        "name": "Honest Home Services",
+        "reviews": 980,
+        "rating": 4.8,
+        "gbpScore": 85,
+        "url": "honesthomeservices.com",
+        "keyStrength": "Trust-focused branding, transparent pricing",
+        "lat": 33.44,
+        "lng": -112.0
+      },
+      {
+        "rank": 4,
+        "name": "The Plumbing Joint",
+        "reviews": 420,
+        "rating": 4.7,
+        "gbpScore": 74,
+        "url": "theplumbingjoint.com",
+        "keyStrength": "Modern branding, social media savvy",
+        "lat": 33.35,
+        "lng": -111.9
+      }
+    ],
+    "gapAnalysis": {
+      "reviewsNeeded": 1500,
+      "ratingTarget": 4.8,
+      "topRecommendation": "Target affluent suburbs: Scottsdale, Tempe, Gilbert."
+    }
+  }
+]

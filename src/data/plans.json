@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Startup",
+    "price": "3.00",
+    "url": "https://turbocloudhost.duoservers.com/linux-cloud-web-hosting/",
+    "features": [
+      "Unlimited NVMe Disk Space",
+      "Unlimited Monthly Traffic",
+      "1 Hosted Domain",
+      "Unlimited Subdomains",
+      "100 E-mail Accounts",
+      "5 MySQL Databases",
+      "5 GB VPN Traffic",
+      "30-Day Free Trial"
+    ]
+  },
+  {
+    "name": "Business",
+    "price": "3.92",
+    "url": "https://turbocloudhost.duoservers.com/linux-cloud-web-hosting/",
+    "features": [
+      "Unlimited NVMe Disk Space",
+      "Unlimited Monthly Traffic",
+      "5 Hosted Domains",
+      "Unlimited Subdomains",
+      "500 E-mail Accounts",
+      "20 MySQL Databases",
+      "15 GB VPN Traffic",
+      "30-Day Free Trial"
+    ]
+  },
+  {
+    "name": "Professional",
+    "price": "8.67",
+    "url": "https://turbocloudhost.duoservers.com/linux-cloud-web-hosting/",
+    "features": [
+      "Unlimited NVMe Disk Space",
+      "Unlimited Monthly Traffic",
+      "Unlimited Hosted Domains",
+      "Unlimited Subdomains",
+      "Unlimited E-mail Accounts",
+      "Unlimited MySQL Databases",
+      "25 GB VPN Traffic",
+      "30-Day Free Trial"
+    ]
+  },
+  {
+    "name": "Enterprise",
+    "price": "12.50",
+    "url": "https://turbocloudhost.duoservers.com/linux-cloud-web-hosting/",
+    "features": [
+      "Unlimited NVMe Disk Space",
+      "Unlimited Monthly Traffic",
+      "Unlimited Hosted Domains",
+      "Unlimited Subdomains",
+      "Unlimited E-mail Accounts",
+      "Unlimited MySQL Databases",
+      "50 GB VPN Traffic",
+      "30-Day Free Trial"
+    ]
+  }
+]
